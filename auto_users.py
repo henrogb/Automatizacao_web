@@ -9,8 +9,8 @@ from selenium.webdriver.common.keys import Keys
 
 login_page = "https://admin.thexpos.net/users"
 
-usuario = 'henro.isquierdo'
-senha = '@Fr33d0m02'
+usuario = 'HENRO.SILVA'
+senha = '@Fr33d0m03'
 
 def login_maker(nome_usuario):    
     nome = new_user.split(" ")
